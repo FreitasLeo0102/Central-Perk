@@ -23,8 +23,7 @@ O projeto recria a atmosfera nostálgica da série, usando elementos visuais com
   
 ## 🗺️ Guia
 
-- Página inicial com destaques, localização das filiai e avaliaçoes.
+- Página inicial com lançamentos do cardapio, localização das filiais, avaliaçoes e redes sociais
 - Pagina de cardapio com os os produtos oferecidos
 - Uma pagina contando a historia da iconica cafeteria
 - Uma pagina com formulario para abrir uma filial
-- Uma pagina contando sobre a empresa desenvolvedora do site
