@@ -16,6 +16,14 @@ O projeto recria a atmosfera nostálgica da série, usando elementos visuais com
 - Talita
 - Thiago
 
+## 🧩 Wireframe
+
+O design inicial da interface foi planejado com base na estética da série *Friends*, utilizando elementos visuais inspirados no Central Perk.  
+Você pode visualizar o wireframe completo no link abaixo:
+
+📄 [Clique aqui para acessar o Wireframe em PDF](Wireframe.pdf)
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
